@@ -1,0 +1,1 @@
+from modul5.package.test import var1

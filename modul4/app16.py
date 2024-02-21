@@ -13,5 +13,5 @@ def check_pasward():
         else:
             print("parola trebuie sa contina : ! @ %")
             check_pasward()
-
-check_pasward()
+if __name__ == '__main__':
+    check_pasward()
